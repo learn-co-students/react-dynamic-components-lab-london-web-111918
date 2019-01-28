@@ -28,11 +28,11 @@ export default class BlogPost extends Component {
         }
         />; <
         Comment commentText = {
-          comments[0]
+          comments[1]
         }
         />; <
         Comment commentText = {
-          comments[0]
+          comments[2]
         }
         />;
       } <
